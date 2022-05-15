@@ -1,0 +1,6 @@
+framework module Pods_Compositional_Layout_and_Combine {
+  umbrella header "Pods-Compositional Layout and Combine-umbrella.h"
+
+  export *
+  module * { export * }
+}
